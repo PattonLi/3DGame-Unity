@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d783e498d3062244ba5d68d6f1ef4a42, type: 3}
+  m_Name: ruler.config
+  m_EditorClassIdentifier: 
+  trailIndex: 4
+  roundIndex: 0
+  SumRoundNum: 5
+  SumTrailNum: 10
+  diskNumPerRound: 0a0000000f00000014000000190000001e000000
+  shootDeltaTimePerRound:
+  - 3
+  - 2.6
+  - 2.2
+  - 1.8
+  - 1.4
